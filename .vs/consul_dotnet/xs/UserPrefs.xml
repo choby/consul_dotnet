@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2478D6F7-A3DC-4B24-BA37-C396D7323641}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="consul_dotnet/Program.cs">
+    <Files>
+      <File FileName="consul_dotnet/Program.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="consul_dotnet" expanded="True">
+            <Node name="consul_dotnet" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.consul__dotnet FirstBuild="True" PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+</Properties>

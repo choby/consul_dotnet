@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DK4StkmQ8jGc4jl7LlJbfqQSo494mNm0fueBl8I+MAY=",
+  "Source": "consul_dotnet",
+  "BasePath": "_content/consul_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
