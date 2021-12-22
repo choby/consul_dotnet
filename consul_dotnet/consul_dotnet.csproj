@@ -9,15 +9,19 @@
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     <PackageReference Include="Consul" Version="1.6.10.3" />
+    <PackageReference Include="Winton.Extensions.Configuration.Consul" Version="3.1.2" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="controllers\" />
     <None Remove="consul\" />
     <None Remove="Consul" />
+    <None Remove="Winton.Extensions.Configuration.Consul" />
+    <None Remove="Options\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="controllers\" />
     <Folder Include="consul\" />
+    <Folder Include="Options\" />
   </ItemGroup>
 </Project>
